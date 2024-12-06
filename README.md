@@ -1,1 +1,1 @@
-# demo
+# My very cool demo repo!
